@@ -51,3 +51,5 @@ int main(){
         printf("front:%d and rear:%d",front,rear);
         return 0;
 }
+
+//https://github.com/udaykiran1729/Programming/blob/961c70d315a18fc957c315b732f286129b0f0e1b/data%20structures/queues/circular_queue.c
